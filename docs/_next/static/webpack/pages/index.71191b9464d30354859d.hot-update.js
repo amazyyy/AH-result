@@ -1,0 +1,14 @@
+webpackHotUpdate_N_E("pages/index",{
+
+/***/ "./package.json":
+/*!**********************!*\
+  !*** ./package.json ***!
+  \**********************/
+/*! exports provided: name, version, private, homepage, scripts, dependencies, resolutions, devDependencies, default */
+/***/ (function(module) {
+
+eval("module.exports = JSON.parse(\"{\\\"name\\\":\\\"app\\\",\\\"version\\\":\\\"0.3.0\\\",\\\"private\\\":true,\\\"homepage\\\":\\\"/\\\",\\\"scripts\\\":{\\\"clean\\\":\\\"find . -name '*.swp' -delete\\\",\\\"test\\\":\\\"jest --config=jest.config.js --coverage\\\",\\\"lint\\\":\\\"eslint ./src/**/*.js --max-warnings 0\\\",\\\"dev\\\":\\\"NODE_ENV=development node -r esm server.js\\\",\\\"build\\\":\\\"next build\\\",\\\"export\\\":\\\"next build && next export\\\",\\\"start\\\":\\\"next start\\\"},\\\"dependencies\\\":{\\\"@material-ui/core\\\":\\\"^4.9.13\\\",\\\"@material-ui/icons\\\":\\\"^4.9.1\\\",\\\"@material-ui/lab\\\":\\\"^4.0.0-alpha.56\\\",\\\"axios\\\":\\\"^0.19.2\\\",\\\"bluebird\\\":\\\"^3.7.2\\\",\\\"clsx\\\":\\\"^1.1.1\\\",\\\"d3\\\":\\\"^5.16.0\\\",\\\"d3-3d\\\":\\\"^0.0.9\\\",\\\"dotenv\\\":\\\"^8.2.0\\\",\\\"fcs\\\":\\\"^0.1.2\\\",\\\"file-saver\\\":\\\"^2.0.2\\\",\\\"html2canvas\\\":\\\"^1.0.0-rc.5\\\",\\\"immutability-helper\\\":\\\"^3.0.2\\\",\\\"jspdf\\\":\\\"^1.5.3\\\",\\\"jszip\\\":\\\"^3.4.0\\\",\\\"material-table\\\":\\\"^1.69.2\\\",\\\"mobx\\\":\\\"^5.15.4\\\",\\\"mobx-react\\\":\\\"^6.2.2\\\",\\\"mobx-react-lite\\\":\\\"^2.0.6\\\",\\\"next\\\":\\\"^9.5.2\\\",\\\"next-fonts\\\":\\\"^1.5.1\\\",\\\"plotly.js\\\":\\\"^1.56.0\\\",\\\"react\\\":\\\"16.13.1\\\",\\\"react-dom\\\":\\\"16.13.1\\\",\\\"react-dropzone\\\":\\\"^11.0.3\\\",\\\"react-material-ui-form-validator\\\":\\\"^2.0.10\\\",\\\"worker-plugin\\\":\\\"^5.0.0\\\"},\\\"resolutions\\\":{\\\"d3-selection\\\":\\\"1.3.0\\\",\\\"d3-transition\\\":\\\"1.0.0\\\"},\\\"devDependencies\\\":{\\\"@babel/plugin-proposal-decorators\\\":\\\"^7.8.3\\\",\\\"babel-eslint\\\":\\\"^10.1.0\\\",\\\"body-parser\\\":\\\"^1.19.0\\\",\\\"csv\\\":\\\"^5.3.2\\\",\\\"enzyme\\\":\\\"^3.11.0\\\",\\\"enzyme-adapter-react-16\\\":\\\"^1.15.2\\\",\\\"eslint\\\":\\\"^6.8.0\\\",\\\"eslint-plugin-react\\\":\\\"^7.19.0\\\",\\\"esm\\\":\\\"^3.2.25\\\",\\\"express\\\":\\\"^4.17.1\\\",\\\"fast-glob\\\":\\\"^3.2.4\\\",\\\"jest\\\":\\\"^25.4.0\\\",\\\"jest-canvas-mock\\\":\\\"^2.3.0\\\",\\\"jsdom\\\":\\\"^16.4.0\\\",\\\"jsdom-global\\\":\\\"^3.0.2\\\",\\\"next-react-memory-stats\\\":\\\"^1.0.2\\\",\\\"yarn\\\":\\\"^1.22.10\\\"}}\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL3BhY2thZ2UuanNvbi5qcyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./package.json\n");
+
+/***/ })
+
+})
